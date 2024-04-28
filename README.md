@@ -1,7 +1,6 @@
-📝 Todo App
-Todo App Screenshot
+📝 appTareas
 
-Todo App es un sencillo y elegante gestor de tareas construido con 💖 y JavaScript. Es un proyecto creado para practicar las habilidades básicas de desarrollo web siguiendo un tutorial de YouTube.
+Tareas es un sencillo y elegante gestor de tareas construido con 💖 y JavaScript. Es un proyecto creado para practicar las habilidades básicas de desarrollo web siguiendo un tutorial de YouTube.
 
 🎯 Características
 Añadir nuevas tareas a la lista con un solo clic.
